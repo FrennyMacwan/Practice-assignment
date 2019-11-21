@@ -6,10 +6,10 @@ RabbitMQ, Anaconda-spyder
 
 For Python libraries:
 execute below commands in python prompt/anaconda prompt
-pip install pika
-pip install datetime
-pip install random
-pip install time
+ pip install pika
+ pip install datetime
+ pip install random
+ pip install time
 
 Assumption: 
 1. Simulated PV value is taken as 100
