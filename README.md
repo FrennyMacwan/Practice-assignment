@@ -1,7 +1,7 @@
 # Practice-assignment
 PV simulation challenge
 
-Prequisites 
+Prequisites: 
 RabbitMQ
 Anaconda-spyder
 
