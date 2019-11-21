@@ -6,14 +6,15 @@ RabbitMQ
 Anaconda-spyder
 
 For Python libraries:
+execute below commands in python prompt/anaconda prompt
 pip install pika
 pip install datetime
 pip install random
 pip install time
 
 Assumption: 
-1.Simulated PV value is taken as 100
-2. output result file will be created where send.py and receive.py are copied. Make sure both are in same folder.
+1. Simulated PV value is taken as 100
+2. output result file will be created where send.py and receive.py are placed. Make sure both are in same folder.
 
 Steps to execute:
 
