@@ -2,8 +2,7 @@
 PV simulation challenge
 
 Prequisites: 
-RabbitMQ
-Anaconda-spyder
+RabbitMQ, Anaconda-spyder
 
 For Python libraries:
 execute below commands in python prompt/anaconda prompt
